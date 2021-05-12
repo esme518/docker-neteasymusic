@@ -1,1 +1,1 @@
-# docker-neteasymusic
+:whale: Dockerfiles for [NetEasyMusic](https://github.com/jsososo/NeteaseMusic)
